@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ahmedzzyy
+- 👀 I’m interested in Python and System Design
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on Open-Source frameworks and projects which are at an early stage. 
+- 📫 How to reach me ... - [Currently Not fixed]

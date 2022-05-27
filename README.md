@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedzzyy
-- 👀 I’m interested in System Design and Desktop App Development
-- 🧠 I like Java-Based languages
-- 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on Open-Source frameworks and projects which are at an early stage. 
-- 📫 How to reach me ... - [Currently Not fixed]
+- 👀 I’m interested in Blockchain, Smart COntracts
+- 🧠 I like simple concise clean code.
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on projects which are at an early stage. 
+- 📫 How to reach me ... - @twitter

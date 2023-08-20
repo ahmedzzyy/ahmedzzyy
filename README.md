@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @ahmedzzyy
-- 👀 I’m interested in Blockchain, Smart COntracts
-- 🧠 I like simple concise clean code.
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on projects which are at an early stage. 
-- 📫 How to reach me ... - @twitter
+Just putting out my passion for Programming and Tech.
